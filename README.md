@@ -1,8 +1,3 @@
-# Virtual-mouse
-Certainly! Let's create a README.md file that explains your Virtual Mouse project, its functionality, how to set it up, and the technical terms involved:
-
----
-
 # Virtual Mouse using Hand Gestures
 
 ## Overview
@@ -65,20 +60,10 @@ The application uses the following steps to operate:
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and create a new branch for your feature or bug fix. Submit a pull request when your changes are ready for review.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Thanks to the developers of OpenCV, MediaPipe, and PyAutoGUI for their valuable libraries and tools.
 
 ---
 
-### Notes:
 
-- **Technical Terms**: The project utilizes terms like "hand landmarks," "gesture recognition," and "real-time processing." These refer to specific functionalities within the application related to detecting and interpreting hand movements.
-- **Demo**: Include a GIF or video demonstrating your project in action to provide a visual representation of how the Virtual Mouse operates.
-- **Installation and Setup**: Provide clear instructions on how to clone the repository, install dependencies, and run the application to ensure users can set it up easily.
-- **Usage**: Explain how users can interact with the application, including starting the program, performing gestures, and controlling the computer cursor effectively.
-  
